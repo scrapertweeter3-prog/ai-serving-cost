@@ -1,0 +1,8 @@
+[package]
+name = "ai-serving-cost"
+version = "0.1.0"
+edition = "2021"
+description = "Serving cost math for AI workloads: per-token dollar cost with cache discounts, request cost from token counts, and what the cached share of traffic saves at current volume."
+license = "MIT"
+homepage = "https://pastagi.com"
+repository = "https://github.com/scrapertweeter3-prog/ai-serving-cost"
