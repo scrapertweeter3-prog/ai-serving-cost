@@ -1,0 +1,6 @@
+site_name: ai-serving-cost
+site_description: Per-request and monthly dollar cost for AI API workloads, with cache discounts priced in.
+repo_url: https://github.com/scrapertweeter3-prog/ai-serving-cost
+repo_name: scrapertweeter3-prog/ai-serving-cost
+nav:
+  - Home: index.md
