@@ -1,0 +1,8 @@
+{
+  "name": "ai-serving-cost",
+  "version": "0.1.0",
+  "description": "Serving cost math for AI workloads: per-token cost with cache discounts, request cost, and monthly bill at your volume",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/ai-serving-cost",
+  "homepage": "https://pastagi.com"
+}
